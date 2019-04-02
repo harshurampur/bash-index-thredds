@@ -1,0 +1,1 @@
+bash thredds-index.sh
